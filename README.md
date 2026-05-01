@@ -77,7 +77,3 @@ The system uses MySQL database for storing:
 - Billing Information
 - Daily Sales Records
 - Customer Purchase Details
-
----
-
-## Project Structure
